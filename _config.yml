@@ -90,14 +90,14 @@ defaults:
       share: true
 
 # Site Author
-author: Abhishek
+author: 
   name: 
   picture:
-  email: abhishek.kumar.eee13@itbhu.ac.in
+  email: 
   twitter:
-  links: abhisheka456.github.io
-    - title: The Spherical Search
-      url: abhisheka456.github.io/SS
+  links: 
+    - title: 
+      url: 
       icon:
 
 # Footer Links
